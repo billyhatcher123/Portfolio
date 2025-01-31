@@ -1,0 +1,11 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.bluebackground {
+    background-color: #1e90ff;
+}
+
+.greenbackground {
+    background-color: #32cd32;
+}
